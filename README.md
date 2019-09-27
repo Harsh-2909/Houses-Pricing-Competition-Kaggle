@@ -1,0 +1,2 @@
+# Housing Prices Competition for Kaggle Learn Users
+My solution to this competition using Random Forest Regressional model from sklearn. The data and the steps of the competition was provided by Kaggle.
